@@ -55,7 +55,7 @@ Passionate about Web Development, Software Development, and Continuous Learning.
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="www.linkedin.com/in/r-ningsih-a40725381">
+<a href="https://www.linkedin.com/in/r-ningsih-a40725381/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
