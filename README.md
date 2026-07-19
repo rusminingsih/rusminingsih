@@ -1,5 +1,4 @@
 <h1 data-importer="text" align="center">"Hello everyone! Welcome to my profile. ✨"</h1>
-<h1 align="center">Hi 👋, I'm Rusmi Ningsih</h1>
 
 <p align="center">
 This GitHub repository is where I document my learning process and the development of my programming skills. I believe that every project—no matter how small—is part of the journey toward becoming a developer who is constantly growing.
