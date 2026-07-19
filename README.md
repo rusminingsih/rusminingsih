@@ -74,5 +74,7 @@ Passionate about Web Development, Software Development, and Continuous Learning.
 ---
 
 <p align="center">
-<i>"Keep learning, keep building, and never stop growing."</i> 🚀
+<i>"Keep learning, keep building, and never stop growing"<br>
+   "Progress over perfection."
+</i> 🚀
 </p>
