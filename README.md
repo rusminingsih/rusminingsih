@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rusmi Ningsih</h1>
 
 <p align="center">
-I believe every expert was once a beginner. Currently, I'm focusing on strengthening my programming fundamentals and documenting my learning journey through GitHub.
+This GitHub repository is where I document my learning process and the development of my programming skills. I believe that every project—no matter how small—is part of the journey toward becoming a developer who is constantly growing.
 </p>
 
 ---
