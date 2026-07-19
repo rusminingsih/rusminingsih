@@ -1,4 +1,32 @@
 <h1 data-importer="text" align="center">"Hello everyone! Welcome to my profile. ✨"</h1>
+<h1 align="center">Hi 👋, I'm Rusmi Ningsih</h1>
+
+<h3 align="center">
+An Information Technology Student who loves learning and building software step by step.
+</h3>
+
+<p align="center">
+I believe every expert was once a beginner. Currently, I'm focusing on strengthening my programming fundamentals and documenting my learning journey through GitHub.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 D3 Information Technology Student at **Politeknik Negeri Madiun**
+- 🌱 Currently learning **Web Development, Python, C++, Git, and GitHub**
+- 📚 Building a strong foundation before moving on to larger software projects
+- 💡 Interested in **Software Development, Web Technologies, and Artificial Intelligence**
+- 🚀 Sharing my learning journey through personal projects and coding exercises
+- 📍 Magetan, East Java, Indonesia
+
+## 🎯 My Learning Goals
+
+- 🌱 Become a better programmer every day
+- 💻 Build useful and meaningful software projects
+- 📚 Master programming fundamentals
+- 🤝 Contribute to open-source projects in the future
+- 🚀 Keep learning and never stop improving
 
 ###
 
