@@ -5,66 +5,64 @@ D3 Information Technology Student at Politeknik Negeri Madiun 🇮🇩
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Information+Technology+Student;Web+Development+Enthusiast;Always+Learning+New+Things+🚀" />
+Passionate about Web Development, Software Development, and Continuous Learning.
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 D3 Information Technology Student at **Politeknik Negeri Madiun**
-- 🌱 Currently learning **HTML, CSS, JavaScript, PHP, Python, Java, MySQL**
-- 💻 Interested in **Web Development, Artificial Intelligence, and Software Engineering**
-- 🚀 Passionate about building useful software projects
+- 🌱 Currently learning **HTML, CSS, JavaScript, PHP, Python, Java, Git & GitHub**
+- 💻 Interested in **Web Development, Artificial Intelligence, and Software Development**
+- 🚀 Building projects to improve my programming skills
 - 📍 Magetan, East Java, Indonesia
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,git,github,vscode,figma&perline=6"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
-# 🎯 Current Goals
+## 🔥 GitHub Streak
 
-- 🚀 Build Web Development Projects
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rusminingsih&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build 10+ Web Development Projects
 - 📚 Learn Laravel Framework
 - 🤖 Explore Artificial Intelligence
 - 💡 Improve Problem Solving Skills
-- 🌍 Contribute to Open Source
+- 🌍 Contribute to Open Source Projects
 - 🎓 Graduate with Excellent Academic Performance
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect with Me
 
-<p align="center">
+<p align="left">
 
 <a href="mailto:sehnngseh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/r-ningsih-a40725381/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="www.linkedin.com/in/r-ningsih-a40725381">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
-Coming Soon 🚀
-</p>
-
----
-
-<p align="center">
-<i>"Keep learning, keep building, and never stop growing."</i> ❤️
+<i>"Keep learning, keep building, and never stop growing."</i> 🚀
 </p>
